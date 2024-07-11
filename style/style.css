@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+
+a{
+    color: yellow;
+}
+
+#contenu{
+    background-color: lightgray;
+}
+
+div + div{
+    text-align: right;
+}
+
+.GrosParagraphe{
+    font-size: 2em;
+}
+
+#contenu img {
+    width: 300px;
+}
+    
